@@ -1,4 +1,4 @@
-# Eventful - Event Booking App
+# BookMyEvent - Event Booking App
 
 Fully type-safe Event Management application called “BookMyEvent” developed using React, TypeScript, and Next.js.
 
