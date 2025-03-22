@@ -19,6 +19,11 @@ const Search = ({
     const delayDebounceFn = setTimeout(() => {
       let newUrl = "";
 
+
+
+
+
+      
       if (query) {
         newUrl = formUrlQuery({
           params: searchParams.toString(),
