@@ -6,7 +6,7 @@ The app is designed to handle the booking of small and medium-sized events, focu
 
 For safety reasons, only users with a valid Clerk account set to **admin: true** can create events and upload images. Feel free to reach out to me if you want to test the full functionality of the app.
 
-## Features
+## Features!
 
 - Leverages Lambda functions (Vercel Server Actions) to communicate with a MongoDB instance, ensuring scalability and efficiency.
 - Uses webhooks to manage user authentication and authorization with Clerk and payment processing with Stripe.
